@@ -1,0 +1,39 @@
+[
+  {
+    "id": "aatrox",
+    "key": "266",
+    "name": "Aatrox",
+    "title": "the Darkin Blade"
+  },
+  {
+    "id": "ahri",
+    "key": "103",
+    "name": "Ahri",
+    "title": "the Nine-Tailed Fox"
+  },
+  {
+    "id": "akali",
+    "key": "84",
+    "name": "Akali",
+    "title": "the Rogue Assassin"
+   },
+  {
+    "id": "alistar",
+    "key": "12",
+    "name": "Alistar",
+    "title": "the Minotaur"
+    },
+  {
+    "id": "amumu",
+    "key": "32",
+    "name": "Amumu",
+    "title": "the Sad Mummy"
+  },
+  {
+    "id": "anivia",
+    "key": "34",
+    "name": "Anivia",
+    "title": "the Cryophoenix"
+    }
+  
+]
