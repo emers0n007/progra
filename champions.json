@@ -52,6 +52,35 @@
     "key": "133",
     "name": "Quinn",
     "title": "Demacia's Wings"
+  },
+  {
+    "id": "rakan",
+    "key": "497",
+    "name": "Rakan",
+    "title": "The Charmer"
+  },
+  {
+    "id": "twistedfate",
+    "key": "4",
+    "name": "Twisted Fate",
+    "title": "the Card Master"
+  },
+  {
+    "id": "twitch",
+    "key": "29",
+    "name": "Twitch",
+    "title": "the Plague Rat"
+  },
+  {
+    "id": "zac",
+    "key": "154",
+    "name": "Zac",
+    "title": "the Secret Weapon"
+  },
+  {
+    "id": "ziggs",
+    "key": "115",
+    "name": "Ziggs"
   }
   
   
