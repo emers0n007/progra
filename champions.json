@@ -34,6 +34,25 @@
     "key": "34",
     "name": "Anivia",
     "title": "the Cryophoenix"
-    }
+    },
+  {
+    "id": "aphelios",
+    "key": "523",
+    "name": "Aphelios",
+    "title": "the Weapon of the Faithful"
+  },
+  {
+    "id": "qiyana",
+    "key": "246",
+    "name": "Qiyana",
+    "title": "Empress of the Elements"
+  },
+  {
+    "id": "quinn",
+    "key": "133",
+    "name": "Quinn",
+    "title": "Demacia's Wings"
+  }
+  
   
 ]
